@@ -1111,7 +1111,7 @@ textarea {
 }
 
 .panel-group .panel .panel-heading h4.panel-title a:hover {
-  color: #BD1F2E;
+  color: #527a99;
 }
 
 .panel-group .panel .panel-body {
@@ -1142,7 +1142,7 @@ textarea {
 
 /* class color: set font with secondary color */
 [class~="color"] {
-  color: #527a99 !important;
+  color: #BD1F2E !important;
 }
 
 /* class black: set font with black color */
